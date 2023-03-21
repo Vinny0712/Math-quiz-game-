@@ -1,1 +1,1 @@
-Run Main.py to start the program
+to start the program,run: python Main.py 
